@@ -13,3 +13,4 @@ public class Panda
     partner.Mate = this;
   }
 }
+//Alteraçao V3.2 - Conflito Jose
